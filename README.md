@@ -7,7 +7,7 @@ GitHubActionsセットアップメモ
 3.git add .github/workflows/ほげほげ.yml 実行　
 
 4. git remote -vでoriginかくにん
-5. 
+
 5.originをセットする。。git remote set-url origin git@github.com:okapy0922/リポジトリ名.git
 
 6.git push origin main 実行　
