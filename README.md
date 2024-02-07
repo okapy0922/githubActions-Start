@@ -2,7 +2,7 @@ GitHubActionsセットアップメモ
 
 1.ローカルに.github/workflowsディレクトリ用意　
 
-2.github/workflows配下にymlファイル作成、いい感じのテンプレートを探すかChatgptに相談しながらつくる　
+2.github/workflows配下にymlファイル作成、いい感じのテンプレートを探すかChatgptに相談しながら作成した
 
 3.git add .github/workflows/ほげほげ.yml 実行　
 
